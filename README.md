@@ -1,0 +1,1 @@
+This application has a CSRF vulnerability. It's possible to make requests to the same endpoint in another domain and manipulate the parameters.
